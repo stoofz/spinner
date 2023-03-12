@@ -5,6 +5,6 @@ for (let x = 0; x < 50; x++) {
     setTimeout(() => {
       process.stdout.write(spin);
     }, time);
-    time += 200
-  };
-};
+    time += 200;
+  }
+}
